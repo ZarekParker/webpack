@@ -6,7 +6,7 @@
 [subrepo]
 	remote = https://github.com/vuetifyjs/templates-common
 	branch = subrepo/webpack-src
-	commit = 251464fee51546c8116c68892734afb26d4eda41
-	parent = e664687f6a504245435ad62fbd08d0dd1c201cb2
+	commit = 2be12ee4d71dc96ab1ea1a58fc102274502cd39b
+	parent = e60c7163866ffc2835b612330eb0b0faa6acd633
 	method = merge
 	cmdver = 0.4.0
